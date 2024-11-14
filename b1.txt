@@ -1,2 +1,7 @@
-master b1 modified
+jd master b1 modified
+<<<<<<< HEAD
 again master b1 alterd
+=======
+
+first b1 modified
+>>>>>>> first
