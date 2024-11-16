@@ -1,3 +1,8 @@
+add remove some and save it
 hai
 
+<<<<<<< HEAD
 jkjkjkjk
+=======
+welcom
+>>>>>>> first
